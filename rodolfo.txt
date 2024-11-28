@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zxx">
+	<head>
+		<meta charset="">
+		
+		<title>Página web</title>
+	</head>
+<body>
+	header>
+		<h3><a href="#Introducción">Introducción</a></h3>
+		<h3><a href="#Contenido">Contenido</a></h3>
+		<h3><a href="#Conclución">Conclución</a></h3>
+	</header>
+	<main>
+		<a id="Introdución"></a>
+		<h3>Cuento de Navidad</h3>
+		<p> En vísperas de Navidad, un profesor decidió asignar una tarea diferente a sus alumnos. Así que al terminar la clase les dijo: 
+		“<b>La Navidad</b> es una época especial, un momento que invita a compartir. Por tanto, no les pondré deberes, les propongo que lleven la 
+		alegría navideña a tantos niños como puedan”.</p>
+		
+		<a id="Contenido"</a>
+		<h3>Listas</h3>
+		<ol>
+			<li>Hola</li>
+			<li>Saludos</li>
+			<li>KLK</li>
+		</ol>
+
+		<h3>Enlaces</h3>
+		<a href="https://www.amazon.com/" target="_black">
+
+		<img="imagenes/zoro3.jpg" download>Descargar imagen</img>
+	</main>
+	<aside>
+		<a id=""Conclución></a>
+		<h3>Enlaces a sitios web de mi interes</h3>
+		<a href="https://es.wikipedia.org/" target="_black">Wikipedia</a>
+		
+		<a href="https://www3.animeflv.net/" target="_black">Animeflv</a>
+		
+		<a href="https://www.youtube.com/" target=""_black>YouTube</a>
+	</aside>
+	<main>
+		<h3>Galeria de imagenes</h3>
+		<ul type="circle">
+			<li><img="imagenes/zoro1">Zoro1</img></li>
+			<li><img="imagenes/zoro2">Zoro2</img></li>
+			<li><img="imagenes/zoro3">Zoro3</img></li>
+			<li><img="imagenes/zoro4">Zoro4</img></li>
+			<li><img="imagenes/zoro5">Zoro5</img></li>
+		</ul>
+	</main>
+	
+</body>
+</html>
